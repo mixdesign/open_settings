@@ -13,6 +13,7 @@ A flutter plugin packages for open the app settings in Android
   s.author           = { 'Ali Hoseinpoor' => 'iamhoseinpoor@gmail.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
+  s.swift_version = '4.2'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
 
